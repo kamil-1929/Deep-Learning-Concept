@@ -9,3 +9,8 @@ const Footer = () => (
 );
 
 export default Footer;
+
+// """
+// # added steps
+
+// """
