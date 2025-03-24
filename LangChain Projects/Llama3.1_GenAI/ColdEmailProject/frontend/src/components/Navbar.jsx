@@ -6,8 +6,8 @@ const Navbar = () => {
   const linkClass = (path) =>
     `text-sm md:text-base px-4 py-2 transition rounded-md ${
       location.pathname === path
-        ? "text-purple-700 font-bold"
-        : "text-gray-700 hover:text-purple-600"
+        ? "text-green-700 font-bold"
+        : "text-gray-700 hover:text-green-600"
     }`;
 
   return (
