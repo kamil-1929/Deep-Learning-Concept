@@ -18,12 +18,14 @@ ColdMail is a modern web application that helps job seekers and professionals cr
 ## 💻 Tech Stack
 
 ### Frontend
+
 - React 18+
 - Tailwind CSS
 - Framer Motion
 - React Router DOM
 
 ### Backend
+
 - FastAPI
 - LangChain
 - Groq LLM API (LLaMA 3.1 70B)
@@ -65,6 +67,7 @@ backend/
 ## 🛠 Setup Instructions
 
 ### Backend
+
 ```bash
 cd backend
 python -m venv venv
@@ -74,6 +77,7 @@ uvicorn app:app --reload
 ```
 
 ### Frontend
+
 ```bash
 cd frontend
 npm install
@@ -85,6 +89,7 @@ npm start
 ## 🌐 Environment Variables
 
 Create a `.env` file in the backend with your Groq API key:
+
 ```bash
 GROQ_API_KEY=your_groq_key_here
 ```
@@ -94,12 +99,12 @@ GROQ_API_KEY=your_groq_key_here
 ## 📬 Contact
 
 For questions or improvements:
-- Email: you@example.com
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+- Email: kamil.329@outlook.com
+- GitHub: [github.com/kamil-1929](https://github.com/yourusername)
 
 ---
 
 ## 📄 License
 
 MIT License. Feel free to fork, modify, and build upon it!
-
